@@ -1,0 +1,7 @@
+C:\Users\Luka\source\repos\LV5\LV5\bin\Debug\LV5.exe.config
+C:\Users\Luka\source\repos\LV5\LV5\bin\Debug\LV5.exe
+C:\Users\Luka\source\repos\LV5\LV5\bin\Debug\LV5.pdb
+C:\Users\Luka\source\repos\LV5\LV5\obj\Debug\LV5.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\LV5\LV5\obj\Debug\LV5.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\LV5\LV5\obj\Debug\LV5.exe
+C:\Users\Luka\source\repos\LV5\LV5\obj\Debug\LV5.pdb
